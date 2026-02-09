@@ -84,12 +84,14 @@
 - `Evidence/signup_figma.png`
 - `Evidence/data_user_username_slug.png`
 - `Evidence/data_alter_custom_slug.png`
-
-### To capture next
+- `Evidence/test_s_tester.png`
+- `Evidence/test_p_tester.png`
 - `Evidence/page_s_type_of_content.png`
 - `Evidence/page_p_type_of_content.png`
 - `Evidence/workflow_login.png`
 - `Evidence/workflow_signup.png`
+- `page_list_showing_v2_pagespng`
+- 
 
 ---
 
