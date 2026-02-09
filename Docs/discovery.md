@@ -48,13 +48,11 @@
 
 ---
 
-## URL / Routing Behavior (Needs confirmation in Bubble)
-- Confirm how pages **`s`** and **`p`** are configured:
-  - Page **Type of content** (User vs Alter vs other)
-  - Whether routing uses **Slug** or another field
-- After signup redirect:
-  - Current destination page: TBD
-  - Data sent (if any): TBD
+## URL / Routing Behavior
+Confirmed:
+- Page s → Type of content: User
+- Page p → Type of content: User
+- Routing uses the User’s Slug (because the page context is “Current page User”, and the URL is /s/<slug> and /p/<slug>)
 
 ---
 
