@@ -1,9 +1,13 @@
 # CISC 4900 Project Docs
 
 ## Current Phase:
--Learn Bubble basics + understand the existing app structure
+-Review existing Bubble app structure (pages, workflows, data types)
+-Document current vs Figma gaps for Sign In / Sign Up
+-Set up v2 pages for safe iteration (sign-in_v2, sign-up_v2)
 
-## Initial Goal
-- Update the Sign In / Sign Up pages in Bubble to match the Figma designs.
-- On account creation, set the user’s **username** to also become the **slug** for their account URL.
-- For users who already have accounts in the MVP version: their existing **custom slug** will be treated as their **username**.
+## Semester Goals
+1.**UI Update (Auth Pages)**
+-Update Sign In / Sign Up pages in Bubble to match Figma designs
+2.**Username → Slug Routing**
+-On account creation, set the user’s handle/username to become the User slug
+-Preserve existing MVP paths using /s/ and /p/ for redirects
