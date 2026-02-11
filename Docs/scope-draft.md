@@ -5,5 +5,5 @@ What I’m learning:
 
 Possible improvements (not final yet)
 -Clean up Sign in / Sign up UI
--Fix layout spacing + mobile responsiveness
+-Fix layout spacing
 -Update page navigation / URL path consistency
