@@ -86,7 +86,7 @@ Confirmed:
 - `Evidence/page_p_type_of_content.png`
 - `Evidence/workflow_login.png`
 - `Evidence/workflow_signup.png`
-- `page_list_showing_v2_pagespng`
+- `Evidence/page_list_showing_v2_pages.png`
 - 
 
 ---
