@@ -78,6 +78,11 @@ Current-state screenshots + findings are documented in `Docs/discovery.md` (sour
 
 ---
 
+### Sign Up (v2) — Username Info Icon / Tooltip
+- Add an info (“i”) icon next to the @Username input on `sign-up_v2` (per Figma).
+- Workflow: When info icon is clicked → Toggle/Show/Hide the tooltip element.
+---
+
 ## Acceptance Checklist
 - [ ] v2 UI matches Figma
 - [ ] handle validation works (min length + unique)
