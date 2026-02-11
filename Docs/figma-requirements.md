@@ -51,6 +51,9 @@ Purpose: This document captures the UI requirements from Figma that the Bubble L
 ### Page Title
 - Title text: **Sign Up**
 
+### Info icon next to @Username: 
+- Clicking/tapping the icon toggles a short explanation that the @Username will be used as the user’s URL slug (for `/s/<username>` and `/p/<username>` pages).
+
 ### Inputs (in order)
 1) **@Username**
 2) **Email**
