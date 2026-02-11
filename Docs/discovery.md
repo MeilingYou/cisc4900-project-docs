@@ -1,8 +1,6 @@
 # Bubble Discovery Notes (Week 2)
 
 **Date:** 1/30/2026 – 2/8/2026  
-**Goal:** Identify where login/signup UI and account creation logic live in Bubble so implementation can be planned safely and does not break existing `/s/` and `/p/` routes.
-
 ---
 
 ## Access / Environment Notes
