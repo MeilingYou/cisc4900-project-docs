@@ -1,8 +1,8 @@
 ## Current Phase
 - Completed Figma-aligned UI updates for Sign Up and Log In (in Development / version-test)
--Implemented and tested basic login + signup workflows to match the updated UI
--Preparing evidence (screenshots) + documenting final UI/workflow decisions in GitHub
--Starting implementation of username → slug behavior on account creation (validation + setting slug)
+- Implemented and tested basic login + signup workflows to match the updated UI
+- Preparing evidence (screenshots) + documenting final UI/workflow decisions in GitHub
+- Starting implementation of username → slug behavior on account creation (validation + setting slug)
 
 ## Semester Goals
 
