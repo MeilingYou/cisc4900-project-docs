@@ -4,16 +4,14 @@
 - Sign-up: https://mbo.my.id/version-52pzt/sign-up
 
 ## Current Phase
-  ### Done
+### Done
 - Completed Figma-aligned UI updates for Sign Up and Log In (Draft / version-52pzt)
 - Implemented and tested basic login + signup workflows to match the updated UI
 - Verified /s/<slug> and /p/<slug> pages still load correctly using a test user (ex: tester)
-
-  ### In Progress
+### In Progress
 - Preparing and organizing evidence screenshots + documenting final UI/workflow decisions in GitHub
 - Defining username rules for signup (minimum 4 characters + unique)
-
-  ### Next
+### Next
 - Implement username → slug behavior on account creation:
 - validate handle (min 4 + unique)
 - save handle to User.Username
