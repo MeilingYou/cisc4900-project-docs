@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-02-14
+- Finished Sign Up UI updates to match the latest Figma layout (field order, labels/placeholders, spacing, and terms/notes section).
+- Implemented the “Information” icon behavior to toggle/show the username-as-URL-slug explanation on the Sign Up page.
+- Verified Sign Up page behavior in preview (toggle hidden by default, shows on click, hides on second click) and captured updated evidence screenshots.
+
+## 2026-02-13
+- Continued UI build-out on Sign Up page in Bubble to align with Figma (dark theme, form styling, input alignment, and button/link styling).
+- Checked conditional visibility setup for the toggle group/popup explanation and adjusted initial state so it does not display on page load.
+- Ran quick preview checks to confirm layout consistency across common screen sizes and documented remaining UI polish items.
+
 ## 2026-02-08
 - Reviewed signup workflow fields to confirm what is set during account creation (email/password/confirmation + Preferred Name mapping).
 - Created Figma → Bubble v2 field mapping checklist and continued UI edits on sign-in_v2 / sign-up_v2.
