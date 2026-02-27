@@ -26,3 +26,10 @@
 ### 2) Username → Slug Routing
 - On account creation, set the user’s handle/username to become the **User slug**
 - Preserve existing MVP paths using `/s/` and `/p/` for redirects
+
+### 3) Research Function (Invite a Connection for Private Pages)
+- Research and propose the most efficient approach to let users invite/request connections when a page is set to private
+- Evaluate options such as:
+     - a user-specific invitation link for existing accounts
+     - a request-access workflow that allows a user to ask for connection without seeing the full private page
+- Document the recommended approach with basic data flow + workflow steps (and any constraints/risks) before implementation
